@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/v3zOfXqBfgdfARXPSG55Uwf1UftWdOleCycrVmZENTYyQRN7fV91g5kTCSRJSUI5J6dJu1M/mky12YNIpxkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Source\\Repos\\allergy-test\\AllergyTest\\AllergyTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
